@@ -1,0 +1,26 @@
+{
+  "name": "jsdoc-strip-async-await",
+  "version": "0.0.1",
+  "description": "jsdoc plugin to strip async/await keywords before parse.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcowgar/jsdoc-strip-async-await.git"
+  },
+  "keywords": [
+    "jsdoc",
+    "plugin",
+    "es7",
+    "async",
+    "await"
+  ],
+  "author": "Jeremy Cowgar <jeremy@cowgar.com> (http://jeremy.cowgar.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcowgar/jsdoc-strip-async-await/issues"
+  },
+  "homepage": "https://github.com/jcowgar/jsdoc-strip-async-await#readme"
+}
