@@ -7,7 +7,7 @@ documentation for source files that contain async or await.
 ## Installation
 
 ```shell
-$ npm install --save-dev/--save jsdoc-strip-async-await
+$ npm install --save-dev jsdoc-strip-async-await
 ```
 
 ## Usage
