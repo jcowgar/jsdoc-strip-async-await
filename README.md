@@ -23,9 +23,5 @@ Add `jsdoc-strip-async-await` to your jsdoc config file.
 
 ## Notes
 
-This is a dumb module. It will strip all instances of async and await from
-your source code before parsing. This means from comments, from strings,
-from everywhere. This is a last ditch plugin to get jsdoc to parse my source.
-
 As soon as jsdoc supports async and await natively, this plugin should be removed
 from your documentation process.

@@ -1,6 +1,6 @@
 {
   "name": "jsdoc-strip-async-await",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "jsdoc plugin to strip async/await keywords before parse.",
   "main": "index.js",
   "scripts": {
