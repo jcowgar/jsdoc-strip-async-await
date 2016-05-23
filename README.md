@@ -17,7 +17,7 @@ Add `jsdoc-strip-async-await` to your jsdoc config file.
 [Configuring JSDoc with conf.json](http://usejsdoc.org/about-configuring-jsdoc.html)
 ```json
 {
-  "plugins": ["node_modules/jsdoc-strip-async-await"],
+  "plugins": ["node_modules/jsdoc-strip-async-await"]
 }
 ```
 
