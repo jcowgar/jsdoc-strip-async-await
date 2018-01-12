@@ -8,7 +8,7 @@
 /* eslint spaced-comment: 0 */
 
 // Regex that matches await and async, but ignoring matches in comments or strings.
-var re = /\/\/[^\r\n]*[\r\n]+|\/\*[\s\S]*?\*\/|(["'`])(?:\\\1|(?!\1).)*\1|\b(await\b\s*|async\b\s*)/g;
+var re = /\/\/[^\r\n]*[\r\n]+|\/\*[\s\S]*?\*\/|(["'`])(?:\\\1|(?!\1).)*\1|[^.]\b(await\b\s*|async\b\s*)/g;
 
 exports.handlers = {
 	///
